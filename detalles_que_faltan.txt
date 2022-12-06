@@ -1,0 +1,3 @@
+pendiente que haga la comparativa
+
+falta hacer la comparativa en un for, metodo burbuja
